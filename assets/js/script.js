@@ -1,4 +1,3 @@
-'use strict';
 
 /**
  * navbar toggle
